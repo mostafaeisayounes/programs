@@ -89,7 +89,7 @@ body{
   transition: 0.2s
 }
 .item:hover{
-    box-shadow: 5px;
+    box-shadow: 20px 20px;
 }
 .item:hover > a > img{
   opacity: 0.5;
